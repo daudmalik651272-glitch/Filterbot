@@ -1,0 +1,1 @@
+procfile worker: python filterbot.py
